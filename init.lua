@@ -2,4 +2,4 @@
 --===========================================
 dofile(minetest.get_modpath("lantern").."/nodes.lua")
 dofile(minetest.get_modpath("lantern").."/crafting.lua")
-dofile(minetest.get_modpath("lantern").."/torch.lua")
+--dofile(minetest.get_modpath("lantern").."/torch.lua")
